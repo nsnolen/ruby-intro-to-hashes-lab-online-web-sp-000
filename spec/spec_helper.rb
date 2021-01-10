@@ -3,10 +3,8 @@ require 'yaml'
 RSpec.configure do |config|
 
   def new_hash
-    hash = {
-
-    }
-
+    hash = {}
+  hash
   end
-hash
+
 end
