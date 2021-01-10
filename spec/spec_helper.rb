@@ -6,3 +6,4 @@ RSpec.configure do |config|
     hash = {}
 
   end
+end
