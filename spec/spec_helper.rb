@@ -6,5 +6,5 @@ RSpec.configure do |config|
   {}
   end
 
-new_hash
+
 end
