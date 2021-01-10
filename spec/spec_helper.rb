@@ -2,7 +2,7 @@ require 'yaml'
 
 RSpec.configure do |config|
 
-  def new_hash(hash)
+  def new_hash
     hash = {}
 
   end
